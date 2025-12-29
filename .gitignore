@@ -4,10 +4,14 @@ node_modules/
 # Environment variables
 .env
 
-# Build outputs
-dist/
-.next/
-target/
+# SQLite databases (local runtime files)
+data.db
+data.db-*
+data.sqlite
+data.sqlite-*
+
+# RAG local repositories
+src/rag/.rag-repos/
 
 # OS files
 .DS_Store
