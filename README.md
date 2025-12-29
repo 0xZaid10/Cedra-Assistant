@@ -47,7 +47,7 @@ Cedra Assistant provides:
 
 
 
-```text
+
 Frontend (HTML/CSS/JS)
 │
 ├── Chat UI
@@ -74,6 +74,7 @@ Backend (Node.js + Express)
     ├── Gemini (LLM)
     ├── Embeddings
     └── Vector Retrieval
+
 
 # 🧠 AI & RAG Design
 
