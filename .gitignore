@@ -1,6 +1,13 @@
-node_modules
+# Dependencies
+node_modules/
+
+# Environment variables
 .env
-dist
-.next
-target
+
+# Build outputs
+dist/
+.next/
+target/
+
+# OS files
 .DS_Store
